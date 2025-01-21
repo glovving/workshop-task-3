@@ -74,7 +74,13 @@ Initially, the random collage generated looked something like this:
  
  <img src="images/noloop.png" alt="Notes" width="400"> 
 
- It also showed me how to reset the loop, I added a call to noLoop() after my collage was generated once inside my draw function, and a call to loop within my mouse pressed function for when my collage_generated variable would be toggled to false again.
+ It also showed me how to reset the loop, I added a call to noLoop() after my collage was generated once inside my draw function, and a call to loop within my mouse pressed function for when my collage_generated variable would be toggled to false again, I also modified the code so that the grey background of the collage would be a randomly generated rgb value.
+ 
+ <img src="images/drawloop.png" alt="Notes" width="400"> 
+
+ Now the code was working without error.
+ I went back to my unique_bg and unique_sticker functions and added 
+ 
  
 
 
