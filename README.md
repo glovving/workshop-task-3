@@ -49,5 +49,14 @@ After this problem which took a long time for me to solve I didn't run into too 
 
 After creating my start screen (shown below)
 
+<img src="images/startscreen.png" alt="Notes" width="300">
+
+For my collage elements I decided to use a random amount of stickers between 1 and 25, and one of the background images, I stored my sticker pngs within an array, and loaded them using the same logic and the backgrounds.
+I added my mouse pressed function, which would clear the start screen and create a unique, randomly generated collage.
+For my mouse pressed function I created a new global boolean variable called collage generated, initialized as false.
+
+
+
+
 
 
