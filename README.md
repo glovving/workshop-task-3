@@ -72,6 +72,10 @@ Initially, the random collage generated looked something like this:
 
  Where after the click a new collage would generate every frame, to stop this from happening I just googled 'how to stop p5.js from drawing', which took me to the p5.js websites noLoop() function page.
  
+ <img src="images/noloop.png" alt="Notes" width="400"> 
+
+ It also showed me how to reset the loop, I added a call to noLoop() after my collage was generated once inside my draw function, and a call to loop within my mouse pressed function for when my collage_generated variable would be toggled to false again.
+ 
 
 
 
