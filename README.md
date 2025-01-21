@@ -85,10 +85,16 @@ I chose to use 5 different effects so I put the ceiling value of my random numbe
 <img src="images/randeffects.png" alt="Notes" width="400"> 
 
 This same logic was used on both of my unique functions.
-Some of my final randomly generated collages are below:
+### Some of my Final Randomly Generated Collages
 
-<img src="images/finalcol1.png" alt="Notes" width="250"><img src="images/finalcol2.png" alt="Notes" width="250"><img src="images/finalcol3.png" alt="Notes" width="250"><img src="images/finalcol4.png" alt="Notes" width="250"> 
+<img src="images/finalcol1.png" alt="Notes" width="250"><img src="images/finalcol2.png" alt="Notes" width="250"><img src="images/finalcol3.png" alt="Notes" width="250"><img src="images/finalcol5.png" alt="Notes" width="250"> 
 
+## My Takeaways from this Workshop + How I would expand this project
+
+- Document my process better
+ - I think that for my next workshops I will document my process while I am building my code rather than leaving the documentation to the end
+- Expand random capabilities
+ - If I were to expand this project further I would go back and add more random/ chance elements to the sketch, for example I could use a for loop to randomly multiply elements within arrays which would given different images higher/ lower chances of appearing every time the program was run. 
 
 
 
