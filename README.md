@@ -1,5 +1,6 @@
 # workshop-task-3
 Creating a randomly generated collage
+Link to completed sketch (https://glovving.github.io/workshop-task-3/)
 
 ## Goals and Planning 
 ### The instructions given for this workshop task:
