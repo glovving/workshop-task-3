@@ -41,7 +41,13 @@ As shown below my inital code began by:
  - Resizing the loaded images using a for loop within the set up function
  - Drawing the images in the draw function
  
- <img src="scs%20and%20notes%20for%20documentation/firsterror.jpg" alt="Notes" width="400">
+ <img src="scs%20and%20notes%20for%20documentation/firsterror.png" alt="Notes" width="400">
 
  This did not work at all and resulted in a completely blank canvas.
+ I asked the discord for help and was corrected on many errors on spelling and array indexing but the solution to getting the images onto the canvas ended up being loading the images and placing them in the array within the preload function.
+After this problem which took a long time for me to solve I didn't run into too many problems.
+
+After creating my start screen (shown below)
+
+
 
