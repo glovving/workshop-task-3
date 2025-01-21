@@ -85,6 +85,12 @@ I chose to use 5 different effects so I put the ceiling value of my random numbe
 <img src="images/randeffects.png" alt="Notes" width="400"> 
 
 This same logic was used on both of my unique functions.
+Some of my final randomly generated collages are below:
+
+<img src="images/finalcol1.png" alt="Notes" width="250"><img src="images/finalcol2.png" alt="Notes" width="250"><img src="images/finalcol3.png" alt="Notes" width="250"><img src="images/finalcol4.png" alt="Notes" width="250"> 
+
+
+
 
  
  
