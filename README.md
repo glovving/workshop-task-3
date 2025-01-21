@@ -31,4 +31,17 @@ I ending up choosing a set of three images for my backgrounds (these are all pho
 
 I chose a set of 5 pngs for my stickers.
 
-<img src="images/bear_sticker.png" alt="Notes" width="100">
+<img src="images/bear_sticker.png" alt="Notes" width="100"><img src="images/elephant_sticker.png" alt="Notes" width="100"><img src="images/fish_sticker.png" alt="Notes" width="100"><img src="images/gorillaface_sticker.png" alt="Notes" width="100"><img src="images/scaryface_sticker.png" alt="Notes" width="100">
+
+I began by coding my starting screen, my plan for this steen was: to have my canvas divided into equal thirds vertically, each third is a randomly chosen bg picture which changes every second with text at the top.
+As shown below my inital code began by:
+ - Globally Initializing the three elements the images would be stored in
+ - Globally Initializing the array with the empty elements
+ - Loading the images as the named elements within the preload function
+ - Resizing the loaded images using a for loop within the set up function
+ - Drawing the images in the draw function
+ 
+ <img src="scs%20and%20notes%20for%20documentation/firsterror.jpg" alt="Notes" width="400">
+
+ This did not work at all and resulted in a completely blank canvas.
+
