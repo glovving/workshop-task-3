@@ -78,8 +78,14 @@ Initially, the random collage generated looked something like this:
  
  <img src="images/drawloop.png" alt="Notes" width="400"> 
 
- Now the code was working without error.
- I went back to my unique_bg and unique_sticker functions and added 
+Now that I knew my code was working without error, I felt more confident to add some more effects to my images.
+I decided to do this in the least error prone way I knew how, which was just to generate a random number, and use many if statements to select the effect.
+I chose to use 5 different effects so I put the ceiling value of my random number at 7, so there is an equal chance of generating any/ no effect.
+
+<img src="images/randeffects.png" alt="Notes" width="400"> 
+
+This same logic was used on both of my unique functions.
+
  
  
 
