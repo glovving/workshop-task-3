@@ -53,7 +53,18 @@ After creating my start screen (shown below)
 
 For my collage elements I decided to use a random amount of stickers between 1 and 25, and one of the background images, I stored my sticker pngs within an array, and loaded them using the same logic and the backgrounds.
 I added my mouse pressed function, which would clear the start screen and create a unique, randomly generated collage.
-For my mouse pressed function I created a new global boolean variable called collage generated, initialized as false.
+For my mouse pressed function I created a new global boolean variable called collage generated, initialized as false, which would toggle on and off whenever the mouse was pressed.
+
+
+<img src="images/mousepressed.png" alt="Notes" width="300">
+
+I then created 4 new functions:
+- default_bg, which when called draws the default bg
+- default_text, which draws the default text
+- unique_bg, which when called would generate a unique bg, which (at this state) was a blank grey canvas with one of the default bg images at a random point on the canvas.
+- unique_stickers, which when called would generate a unique number of randomly selected stickers on random coordinates on the canvas
+
+
 
 
 
