@@ -64,6 +64,14 @@ I then created 4 new functions:
 - unique_bg, which when called would generate a unique bg, which (at this state) was a blank grey canvas with one of the default bg images at a random point on the canvas.
 - unique_stickers, which when called would generate a unique number of randomly selected stickers on random coordinates on the canvas
 
+I did this because clearing separating these functions would make it much easier to switch between different 'states'.
+
+Initially, the random collage generated looked something like this:
+
+ <img src="scs%20and%20notes%20for%20documentation/randcollage1.png" alt="Notes" width="200"> <img src="scs%20and%20notes%20for%20documentation/randcollage4.png" alt="Notes" width="200"> <img src="scs%20and%20notes%20for%20documentation/randcollage3.png" alt="Notes" width="200">
+
+ Where after the click a new collage would generate every frame, to stop this from happening I just googled 'how to stop p5.js from drawing', which took me to the p5.js websites noLoop() function page.
+ 
 
 
 
